@@ -1,4 +1,4 @@
-# Girls Connect
+# Female Connects
 
 A members site for women to find and message each other as friends. Built with
 plain HTML, CSS, JavaScript, PHP and MySQL — no frameworks, no Composer, no build
@@ -178,7 +178,7 @@ All in `includes/config.php`:
 
 | Setting | Default | What it does |
 |---|---|---|
-| `SITE_NAME` | Girls Connect | Shown in the header, title and emails |
+| `SITE_NAME` | Female Connects | Shown in the header, title and emails |
 | `SITE_TAGLINE` | … | Footer line |
 | `MIN_AGE` | 16 | Minimum age at sign-up. `0` switches the check off |
 | `SIGNUP_STATUS` | `active` | `pending` makes every new member wait for your approval |

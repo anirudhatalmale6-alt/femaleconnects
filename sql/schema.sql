@@ -1,5 +1,5 @@
 -- ---------------------------------------------------------------------------
---  Girls Connect - database schema
+--  Female Connects - database schema
 --  MySQL 5.7+ / MariaDB 10.2+ / MySQL 8.x
 --
 --  Import with:  mysql -u USER -p DATABASE < schema.sql

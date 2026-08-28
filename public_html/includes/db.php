@@ -26,7 +26,7 @@ function db(): PDO
             PDO::ATTR_EMULATE_PREPARES   => false,
         ]);
     } catch (PDOException $e) {
-        error_log('Girls Connect DB connection failed: ' . $e->getMessage());
+        error_log('Female Connects DB connection failed: ' . $e->getMessage());
         http_response_code(500);
         exit('The site cannot reach its database right now. Please try again in a moment.');
     }

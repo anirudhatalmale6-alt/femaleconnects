@@ -116,7 +116,7 @@ if ($probe) {
 //  Run it
 // ---------------------------------------------------------------------------
 $in = [
-    'site_name' => $_POST['site_name'] ?? 'Girls Connect',
+    'site_name' => $_POST['site_name'] ?? 'Female Connects',
     'db_host'   => $_POST['db_host']   ?? '',
     'db_name'   => $_POST['db_name']   ?? '',
     'db_user'   => $_POST['db_user']   ?? '',

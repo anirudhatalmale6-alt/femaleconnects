@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Girls Connect - chat behaviour
+   Female Connects - chat behaviour
    Plain JavaScript, no libraries. The browser asks the server for anything
    new every couple of seconds and only ever receives messages it has not
    already got, so the traffic stays tiny.

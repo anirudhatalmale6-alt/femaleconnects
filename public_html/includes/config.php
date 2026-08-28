@@ -1,6 +1,6 @@
 <?php
 /**
- * Girls Connect - site configuration.
+ * Female Connects - site configuration.
  *
  * Edit the database details below to match your hosting account, then upload.
  * Everything else in the site reads its settings from here.
@@ -18,14 +18,14 @@ $gc_defaults = [
 
     // --- Database ---------------------------------------------------------
     'DB_HOST'   => 'localhost',
-    'DB_NAME'   => 'girlsconnect',
+    'DB_NAME'   => 'femaleconnects',
     'DB_USER'   => 'root',
     'DB_PASS'   => '',
     'DB_PORT'   => 3306,
     'DB_SOCKET' => '',                 // leave empty on normal hosting
 
     // --- Site -------------------------------------------------------------
-    'SITE_NAME'    => 'Girls Connect',
+    'SITE_NAME'    => 'Female Connects',
     'SITE_TAGLINE' => 'Real friendships, made by women, for women.',
 
     // Minimum age allowed to register. Set to 0 to switch the check off.
